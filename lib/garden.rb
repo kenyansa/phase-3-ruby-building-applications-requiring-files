@@ -1,4 +1,5 @@
-# Something is missing here
+# implement the relative path with require
+require_relative './plant'
 
 class Garden
   attr_accessor :name
